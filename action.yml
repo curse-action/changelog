@@ -2,7 +2,7 @@ name: "Github changelog"
 description: "github changelog generator"
 author: "Dencer"
 runs:
-  using: "node20"
+  using: "node24"
   main: "index.js"
 branding:
   color: "blue"
